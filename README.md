@@ -1,1 +1,1 @@
-[App Releases](https://github.com/VislaLabs/sharp-node/releases)
+[Releases](https://github.com/VislaLabs/sharp-node/releases)
